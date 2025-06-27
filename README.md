@@ -87,3 +87,8 @@ This project builds a machine learning model to predict the likelihood of diabet
 
    ```bash
    pip install -r requirements.txt
+## Run the Gradio app:
+
+```bash
+python app.py
+#Open the local URL provided by Gradio in your browser to use the Diabetes Prediction app.
